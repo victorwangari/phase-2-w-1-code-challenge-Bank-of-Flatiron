@@ -4,7 +4,7 @@ function Search({transactions, setTransactionData, items}){
         const hint = e.target.value
         if(hint.length>0){
             const filter = transactions.filter((data)=>{
-                return data.category.includes(hint)
+                return data.description.toLowerCase().includes(hint.toLowerCase())
             })
             if(filter.length>0){
                 setTransactionData([...filter])
