@@ -10,31 +10,31 @@ import Transactions from './components/Transactions';
 function App({formData}) {
   const items = [
     {
-    date:'3/04/2023',
+    date:'2023-06-04',
     description:'Fuel',
     category:'Bill',
     amount:'ksh.15000'
    },
    {
-    date:'5/11/2023',
+    date:'2023-02-13',
     description:'Pizza',
     category:'Food',
     amount:'ksh.2100'
    },
    {
-    date:'8/02/2023',
+    date:'2023-04-23',
     description:'Rent',
     category:'Housing',
     amount:'ksh.20000'
    },
    {
-    date:'2/07/2024',
+    date:'2024-07-13',
     description:'New Shoe Sneaker',
     category:'Clothing',
     amount:'ksh.4000'
    },
    {
-    date:'2/07/2024',
+    date:'2024-06-27',
     description:'Movies',
     category:'Entertainments',
     amount:'ksh.1000'
