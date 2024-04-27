@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/css/main.1dc0e17b.css",
-    "main.js": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/js/main.094e2a15.js",
+    "main.js": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/js/main.deb529db.js",
     "static/js/453.d3943c81.chunk.js": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/js/453.d3943c81.chunk.js",
     "index.html": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/index.html",
     "main.1dc0e17b.css.map": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/css/main.1dc0e17b.css.map",
-    "main.094e2a15.js.map": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/js/main.094e2a15.js.map",
+    "main.deb529db.js.map": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/js/main.deb529db.js.map",
     "453.d3943c81.chunk.js.map": "/phase-2-w-1-code-challenge-Bank-of-Flatiron/static/js/453.d3943c81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc0e17b.css",
-    "static/js/main.094e2a15.js"
+    "static/js/main.deb529db.js"
   ]
 }
