@@ -7,7 +7,7 @@ import Search from './components/Seach';
 import Form from './components/Form';
 
 import Transactions from './components/Transactions';
-function App({formData}) {
+function App() {
   const items = [
     {
     date:'2023-06-04',

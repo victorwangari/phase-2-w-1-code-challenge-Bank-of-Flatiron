@@ -9,13 +9,7 @@
 .form{
   width: 80%;
   border: 1px solid blue;
-  
-
- 
-
 }
-
-
 .date{
   padding-left: 10vh;
   padding-right: 10vh;
@@ -31,5 +25,4 @@
  }
 .transactions{
   width: 80%;
-
 }

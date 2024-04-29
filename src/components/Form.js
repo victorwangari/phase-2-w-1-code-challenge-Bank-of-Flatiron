@@ -3,12 +3,10 @@ import { useState } from "react";
 
 function Form ({transactions, setTransactionData}){
     const [formData , setFormData] = useState({
-        id:'',
         date:"",
         description:"",
         category:"",
         amount:""
-
     })
     function handleSubmit(event){
         event.preventDefault()

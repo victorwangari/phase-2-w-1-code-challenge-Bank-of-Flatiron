@@ -18,7 +18,7 @@ function Search({transactions, setTransactionData, items}){
 
             <div className="mx-auto mt-2 search">
                <form className="d-flex" role="search">
-                 <input onChange={handleChange} className="form-control me-2" type="search" placeholder="Search by category" aria-label="Search "></input>
+                 <input onChange={handleChange} className="form-control me-2" type="search" placeholder="Search by description...." aria-label="Search "></input>
                  <button  className="btn btn-outline-success" type="submit">Search </button>
                </form>
            </div>
